@@ -1,9 +1,7 @@
 <!-- Gifs pequenos no topo -->
 <div>
   <img alt="devil" height="25" width="35" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
-  <img alt="devil" height="25" width="35" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
   <img align="right" alt="devil" height="25" width="35" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
-  <img align="right" alt="devil" height="25" width="35" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
 </div>
 
 <!-- Letra digitando -->
@@ -12,7 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&ht=70=1000&color=900404&center=true&vCenter=true&width=200&lines=Olá...;Sou+o+Edvaldo"   alt="Typing SVG">
   </a>
 <!-- Barra caveira coluna -->
-  <img alt="bar" height="100" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bar1-7-0000-removebg-preview.png">
 </div>
 
 <br>
@@ -21,8 +18,6 @@
  <div>
   <!-- link para github stats -->
   <a href="https://github.com/Edmurk"></a>
-  <!-- Gif albuns Korn -->
-  <img align="right" alt="Ed-gif" height="350" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/discografiagif-2.gif">
   <!-- Github stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmurk&show_icons=true&theme=shadow_red"/>
     <br>
@@ -67,11 +62,6 @@
 <br>
 <br>
 
-<div align="center">
-    <img alt="devil" height="50" width="auto" src="https://web.archive.org/web/20090829084941im_/http://geocities.com/theunderworld2001/blood12.gif">
-    <img alt="devil" height="50" width="auto" src="https://web.archive.org/web/20091027075150im_/http://www.geocities.com/TheTropics/Coast/3646/halloween/bloodletters/bly.gif">
-    <img alt="devil" height="50" width="auto" src="https://web.archive.org/web/20090829103742im_/http://geocities.com/theunderworld2001/blood18.gif">
-</div>
 <div align="center">
     <img alt="devil" height="70" width="auto" src="https://web.archive.org/web/20091027011551/http://www.geocities.com/barryoproductions/skeleton.gif">
 </div>
